@@ -11,6 +11,7 @@ Utilizei alguns framework´s para facilitar o desenvolvimento.
 
  • Newtonsoft.Json. 
  • Refit (Rest). 
+ • .NETFramework 4.1.
 <br>
 
 # Execute

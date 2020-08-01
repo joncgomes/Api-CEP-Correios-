@@ -9,9 +9,9 @@ Este projeto consiste no desenvolvimento de um pequeno serviço de consumo de um
 
 Utilizei alguns framework´s para facilitar o desenvolvimento.
 
- • Newtonsoft.Json. 
- • Refit (Rest). 
- • .NETFramework 4.1.
+ • Newtonsoft.Json. <br>
+ • Refit (Rest). <br>
+ • .NETFramework 4.1.<br>
 <br>
 
 # Execute

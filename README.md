@@ -4,17 +4,20 @@
 
 Este projeto consiste no desenvolvimento de um pequeno serviço de consumo de uma api de CEP (Correios) em C# .NET
 
-<br><br>
+<br>
 # Frameworks
 
 Utilizei alguns framework´s para facilitar o desenvolvimento.
 
-• Newtonsoft.Json.
-• Refit (Rest).
+# • Newtonsoft.Json.
+# • Refit (Rest).
 
-<br><br>
+<br>
 
-![Screenshot](medidasCovid.PNG)
+# Execute
+
+![Screenshot](screenshot.png)
+
 
 <br><br>
 ## 🚀 Technologies Used 

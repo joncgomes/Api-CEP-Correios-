@@ -16,7 +16,7 @@ Utilizei alguns framework´s para facilitar o desenvolvimento.
 
 # Execute
 
-![Screenshot](screenshot.png)
+![Screenshot](executadoApiCEP.gif)
 
 
 <br><br>

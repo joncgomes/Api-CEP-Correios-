@@ -26,7 +26,7 @@ Utilizei alguns framework´s para facilitar o desenvolvimento.
 # Visual Studio 2017 - Community 
 <br>
 
-![](https://img1.gratispng.com/20180328/spe/kisspng-net-framework-c-net-core-software-framework-mon-studio-5abb543b74c0d6.9500998315222262354782.jpg)
+<img alt="csharp logo" title="csharp logo"   src="https://user-images.githubusercontent.com/47280551/89092132-6a8da400-d385-11ea-9884-89b88d890c81.png"  width="20%">
 
 <br><br><br>
 
